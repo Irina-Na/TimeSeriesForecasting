@@ -1,5 +1,5 @@
 # TimeSeriesForecasting 
-##Full consumption forecast
+## Full consumption forecast
 
 My client's goal was Full consumption forecast.
 I got folders with log files from power devices and develop script for dataset preparing. Then I made Exploratory Data Analysis (also check seasonity, stationarity, decompose, etc.), finde SARIMA model, made regression+SARIMA forecast and made decision use LSTM model for speed and streaming forecasting.
